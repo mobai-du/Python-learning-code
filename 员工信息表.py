@@ -7,6 +7,7 @@
 # print(data)
 # print(type(data))
 # data = ['alex','22','136','IT','2013-04-01']
+# f = open('information.txt','a+',)
 # # f.write("1,alex,22,136,IT,2013-04-01")
 # # f.write("\n2,jack,30,137,HR,2014-04-01")
 # # f.write("\n3,rain,25,138,Sales,2015-04-01")
